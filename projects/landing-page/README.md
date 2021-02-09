@@ -4,7 +4,7 @@
 
 * [Description](#description)
 * [Functions](#functions)
-* [How_to_open](#how to open)
+* [Open](#open)
 
 ## Description
 This project is based on the *Landing Page* starter code provided by Udacity for the *Front End Web Developer Nanodegree Program*.
@@ -19,5 +19,5 @@ These functions were added to the `js/app.js` file, which is referenced as the l
 ## Functions
 
 
-## How to open
+## Open
 Clone the repo or extract the .zip file and open the `index.html` file in your favorite browser.
