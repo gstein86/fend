@@ -4,26 +4,25 @@
 
 * [Description](#description)
 * [Functions](#functions)
+* * [Test](#1)
+* * [Test](1)
+* * [Test][1]
 * [Open](#open)
 
 ## Description
 This project is based on the *Landing Page* starter code provided by Udacity for the *Front End Web Developer Nanodegree Program*.
 
-To convert the static landing page to an interactive one, three main functions were added to the starter code:
-- dynamic generation of a navigation bar
-- scroll to section on navigation item click
-- visualize the currently focused section
-
+To convert the static landing page to an interactive one, three main functions were added to the starter code.
 These functions were added to the `js/app.js` file, which is referenced as the last element of the body of the `index.html` file.
 
-## Functions
-* ### dynamic generation of a navigation bar:
+## Functions:
+### [1]: Dynamic generation of a navigation bar
 test
 
-* ### dynamic generation of a navigation bar:
+### Scroll to section on navigation item click
 test
 
-* ### dynamic generation of a navigation bar:
+### Visualize the currently focused section
 test
 
 ## Open
