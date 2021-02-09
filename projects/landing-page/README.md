@@ -4,9 +4,9 @@
 
 * [Description](#description)
 * [Functions](#functions)
-  * [Test](#1)
-  * [Test](1)
-  * [Test](Dynamic generation of a navigation bar)
+  * [Dynamic generation of a navigation bar](#Dynamic-generation-of-a-navigation-bar)
+  * [Scroll to section on navigation item click](#Scroll-to_section-on-navigation-item-click)
+  * [Visualize the currently focused section](#Visualize-the-currently-focused-section)
 * [Open](#open)
 
 ## Description
