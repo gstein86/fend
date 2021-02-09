@@ -17,7 +17,14 @@ To convert the static landing page to an interactive one, three main functions w
 These functions were added to the `js/app.js` file, which is referenced as the last element of the body of the `index.html` file.
 
 ## Functions
+* ### dynamic generation of a navigation bar:
+test
 
+* ### dynamic generation of a navigation bar:
+test
+
+* ### dynamic generation of a navigation bar:
+test
 
 ## Open
 Clone the repo or extract the .zip file and open the `index.html` file in your favorite browser.
