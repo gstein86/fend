@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Functions](#functions)
 
 ## Instructions
 
@@ -11,3 +12,13 @@ The starter project has some HTML and CSS styling to display a static version of
 To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+
+## Functions
+
+Three functions were added to the starter code:
+- dynamic generation of a navigation bar
+- scroll to section on navigation item click
+- visualize the currently focused section
+
+These functions were added to the app.js file, which is referenced as the last element of the <body> of the index.html file.
