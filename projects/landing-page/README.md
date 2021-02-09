@@ -4,7 +4,7 @@
 
 * [Description](#description)
 * [Functions](#functions)
-* [How to open](#how to open)
+* [How_to_open](#how to open)
 
 ## Description
 This project is based on the *Landing Page* starter code provided by Udacity for the *Front End Web Developer Nanodegree Program*.
