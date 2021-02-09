@@ -4,9 +4,9 @@
 
 * [Description](#description)
 * [Functions](#functions)
- * [Test](#1)
- * [Test](1)
- * [Test][1]
+  * [Test](#1)
+  * [Test](1)
+  * [Test](Dynamic generation of a navigation bar)
 * [Open](#open)
 
 ## Description
@@ -16,7 +16,7 @@ To convert the static landing page to an interactive one, three main functions w
 These functions were added to the `js/app.js` file, which is referenced as the last element of the body of the `index.html` file.
 
 ## Functions:
-### [1]: (Dynamic generation of a navigation bar)
+### Dynamic generation of a navigation bar
 test
 
 ### Scroll to section on navigation item click
