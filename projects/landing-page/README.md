@@ -17,14 +17,14 @@ These functions were added to the `js/app.js` file, which is referenced as the l
 
 ## Functions:
 * ### Dynamic generation of a navigation bar
-The navigation bar is generated dynamically by adding a list item to the navigation bar list element for each section element of the `index.html` file.
-Each list item holds a reference to the id of its corresponding section.
+  The navigation bar is generated dynamically by adding a list item to the navigation bar list element for each section element of the `index.html` file.
+  Each list item holds a reference to the id of its corresponding section.
 
 * ### Scroll to section on navigation item click
-To be able to scroll to the desired section by clicking on an navigation item, an event listener is added to the navigation bar. When a click on a navigation item is registered, the window scrolls to the connected section element by its referenced id.
+  To be able to scroll to the desired section by clicking on an navigation item, an event listener is added to the navigation bar. When a click on a navigation item is registered, the window scrolls to the connected section element by its referenced id.
 
 * ### Visualize the currently focused section
-Finally a scroll event listener is added to visualize the currently focused section by applying 'active' styles to the section element and its corresponding navigation item. The currently focused section is identified by a helper method which calculates its position on the page in relation to its position in the viewport.
+  Finally a scroll event listener is added to visualize the currently focused section by applying 'active' styles to the section element and its corresponding navigation item. The currently focused section is identified by a helper method which calculates its position on the page in relation to its position in the viewport.
 
 ## Open
 Clone the repo or extract the .zip file and open the `index.html` file in your favorite browser.
