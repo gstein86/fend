@@ -53,11 +53,10 @@ npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin
 	API_KEY=********************************
 	```
 6. Run the project
-
-Commands
-* `npm run build-prod`: Build project in production mode
-* `npm run build-dev`: Build project in development mode
-* `npm start`: Run project
+	Commands
+	* `npm run build-prod`: Build project in production mode
+	* `npm run build-dev`: Build project in development mode
+	* `npm start`: Run project
 
 7. Open favourite browser at http://localhost:8080/
 
